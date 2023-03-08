@@ -47,7 +47,7 @@ body {
   margin: 0 0 40px;
   font-size: 35px;
 }
-@media (max-width: 575px) {
+@media (max-width: 767px) {
   .heading {
     font-size: 25px;
   }
@@ -57,7 +57,7 @@ body {
 .setting-box {
   position: fixed;
   border: 2px solid var(--main-color);
-  z-index: 100;
+  z-index: 10000;
   top: 0;
   left: -200px;
   width: 200px;
@@ -396,7 +396,7 @@ body {
   font-size: 35px;
   margin-bottom: 7px;
 }
-@media (max-width: 575px) {
+@media (max-width: 767px) {
   .intro-text h2 {
     font-size: 25px;
   }
@@ -447,7 +447,7 @@ body {
 .about-us .about {
   display: flex;
 }
-@media (max-width: 575px) {
+@media (max-width: 767px) {
   .about-us .about {
     flex-direction: column;
   }
@@ -456,7 +456,7 @@ body {
   padding: 30px;
   flex: 1;
 }
-@media (max-width: 575px) {
+@media (max-width: 767px) {
   .about-us .about .box-info .heading {
     text-align: center;
   }
@@ -493,7 +493,7 @@ body {
   background-color: #fff;
   margin: 0 0 20px;
 }
-@media (max-width: 575px) {
+@media (max-width: 767px) {
   .our-skills .skills .skill-box {
     flex-direction: column;
   }
@@ -519,7 +519,7 @@ body {
   -ms-border-radius: var(--main-radius) 0 0;
   -o-border-radius: var(--main-radius) 0 0;
 }
-@media (max-width: 575px) {
+@media (max-width: 767px) {
   .our-skills .skills .progress {
     margin: 0;
   }
@@ -580,7 +580,7 @@ body {
   -ms-transform: translate(-50%, -50%);
   -o-transform: translate(-50%, -50%);
 }
-@media (max-width: 575px) {
+@media (max-width: 767px) {
   .popup-box {
     width: 250px;
   }
@@ -624,6 +624,7 @@ body {
 .timeline .timeline-box {
   position: relative;
   overflow: hidden;
+  text-align: center;
 }
 .timeline .timeline-box::before {
   content: "";
@@ -663,7 +664,7 @@ body {
   position: relative;
   margin: 0 0 25px;
 }
-@media (max-width: 575px) {
+@media (max-width: 767px) {
   .timeline .timeline-box .left,
   .timeline .timeline-box .right {
     width: calc(100% - 25px);
@@ -673,7 +674,7 @@ body {
 .timeline .timeline-box .left {
   float: left;
 }
-@media (max-width: 575px) {
+@media (max-width: 767px) {
   .timeline .timeline-box .left {
     margin: 0px auto 15px;
   }
@@ -685,7 +686,7 @@ body {
 .timeline .timeline-box .right {
   float: right;
 }
-@media (max-width: 575px) {
+@media (max-width: 767px) {
   .timeline .timeline-box .right {
     float: none;
   }
@@ -703,7 +704,7 @@ body {
   border-width: 10px;
   border-style: solid;
 }
-@media (max-width: 575px) {
+@media (max-width: 767px) {
   .timeline .timeline-box .left::before,
   .timeline .timeline-box .right::before {
     display: none;
@@ -734,7 +735,7 @@ body {
   -ms-border-radius: 50%;
   -o-border-radius: 50%;
 }
-@media (max-width: 575px) {
+@media (max-width: 767px) {
   .timeline .timeline-box .left .content::before,
   .timeline .timeline-box .right .content::before {
     display: none;
@@ -744,7 +745,7 @@ body {
   color: var(--main-color);
   margin: 0 0 10px;
 }
-@media (max-width: 575px) {
+@media (max-width: 767px) {
   .timeline .timeline-box .content h3 {
     text-align: center;
   }
@@ -770,7 +771,7 @@ body {
   grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
   gap: 15px;
 }
-@media (max-width: 575px) {
+@media (max-width: 767px) {
   .features .feat-container {
     grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
     gap: 10px;
@@ -832,7 +833,7 @@ body {
   margin: 0 0 20px 10px;
   color: #fff;
 }
-@media (max-width: 669px) {
+@media (max-width: 767px) {
   .testimonials h1 {
     text-align: center;
   }
@@ -842,7 +843,7 @@ body {
   grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
   gap: 15px;
 }
-@media (max-width: 575px) {
+@media (max-width: 767px) {
   .testimonials .the-container .testimonial-container {
     grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
     gap: 10px;
@@ -914,7 +915,7 @@ body {
   margin: auto;
   max-width: 800px;
 }
-@media (max-width: 575px) {
+@media (max-width: 767px) {
   .contact form {
     flex-direction: column;
   }
@@ -964,7 +965,7 @@ footer {
   font-size: 20px;
   font-weight: bold;
 }
-@media (max-width: 575px) {
+@media (max-width: 767px) {
   footer {
     font-size: 15px;
   }
