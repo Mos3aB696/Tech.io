@@ -50,6 +50,6 @@ Feel free to fork the repository and create pull requests to contribute to the p
 
 For any queries, feel free to contact:
 
-- LinkedIn: [Mosaab Abdelkawy]([https://linkedin](https://www.linkedin.com/in/mosaab-abdelkawy/])
+- LinkedIn: [Mosaab Abdelkawy]([https://www.linkedin.com/in/mosaab-abdelkawy/])
 
 ---
