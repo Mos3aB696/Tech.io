@@ -1,8 +1,8 @@
-++# Special Design
+# Special Design
 
 ## Overview
 
-**Special Design One** is a fully responsive and interactive web design project that showcases modern front-end development practices. It leverages **HTML**, **CSS**, and **JavaScript** to create a dynamic, user-friendly experience across various devices, from desktops to mobile phones.
+**Special Design** is a fully responsive and interactive web design project that showcases modern front-end development practices. It leverages **HTML**, **CSS**, and **JavaScript** to create a dynamic, user-friendly experience across various devices, from desktops to mobile phones.
 
 The project highlights various design elements and interactivity using JavaScript, demonstrating smooth transitions, animations, and interactive content to enhance user engagement.
 
@@ -15,7 +15,7 @@ The project highlights various design elements and interactivity using JavaScrip
 
 ## Demo
 
-You can view the live demo of the project here: [Special Design One Live Demo](https://mos3ab696.github.io/Special_Design/)
+You can view the live demo of the project here: [Special Design Live Demo](https://mos3ab696.github.io/Special_Design/)
 
 ## Installation
 
