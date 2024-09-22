@@ -1,4 +1,4 @@
-# Special Design One
+# Special Design
 
 ## Overview
 
@@ -50,7 +50,6 @@ Feel free to fork the repository and create pull requests to contribute to the p
 
 For any queries, feel free to contact:
 
-- **Mosaab Abdelkawy**
-- LinkedIn: [Mosaab Abdelkawy]([https://linkedin](https://www.linkedin.com/in/mosaab-abdelkawy/))
+- LinkedIn: [Mosaab Abdelkawy]([https://linkedin](https://www.linkedin.com/in/mosaab-abdelkawy/])
 
 ---
