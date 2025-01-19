@@ -1,8 +1,8 @@
-# Special Design
+# Tech.io
 
 ## Overview
 
-**Special Design** is a fully responsive and interactive web design project that showcases modern front-end development practices. It leverages **HTML**, **CSS**, and **JavaScript** to create a dynamic, user-friendly experience across various devices, from desktops to mobile phones.
+**Tech.io** is a fully responsive and interactive web design project that showcases modern front-end development practices. It leverages **HTML**, **CSS**, and **JavaScript** to create a dynamic, user-friendly experience across various devices, from desktops to mobile phones.
 
 The project highlights various design elements and interactivity using JavaScript, demonstrating smooth transitions, animations, and interactive content to enhance user engagement.
 
@@ -15,14 +15,14 @@ The project highlights various design elements and interactivity using JavaScrip
 
 ## Demo
 
-You can view the live demo of the project here: [Special Design Live Demo](https://mos3ab696.github.io/Special_Design/)
+You can view the live demo of the project here: [Tech.io Live Demo](https://mos3ab696.github.io/Tech.io/)
 
 ## Installation
 
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/Mos3aB696/Special_Design.git
+   git clone https://github.com/Mos3aB696/Tech.io.git
    ```
 
 2. **Open the project**:
@@ -48,6 +48,7 @@ Feel free to fork the repository and create pull requests to contribute to the p
 
 ## Contact
 
-For any queries, feel free to contact:
+**Mosaab Abdelkawy**
+- [LinkedIn](https://www.linkedin.com/in/mosaab-abdelkawy/)
+- [YouTube](https://youtube.com/@tapseta696?si=7q1LRJdUoOW2Yamk)
 
-- LinkedIn: [Mosaab Abdelkawy](https://www.linkedin.com/in/mosaab-abdelkawy/)
